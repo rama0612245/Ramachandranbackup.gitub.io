@@ -1,0 +1,22 @@
+body {
+    background-color: darkgreen;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.conteneur {
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 300px;
+}
+
+#resultat {
+    color: red;
+    font-weight: bold;
+}
